@@ -113,12 +113,12 @@ a:hover{
 }
 
 .jumbotron{
- background-image:    url(https://i.postimg.cc/qvv2Bss0/cookiesandcupcakes-photo-for-desktop-site2.jpg);
+ background-image: url(https://i.postimg.cc/qvv2Bss0/cookiesandcupcakes-photo-for-desktop-site2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  color: #fff;
-  text-shadow: 2px 1px 1px rgba(102, 66, 50, 0.8);
+  color: #664232;
   border-bottom: 3px solid #F78E7B;
+  height: 800px;
 
 }
 
